@@ -3,9 +3,8 @@
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/uses-html.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
 </p>
 
-#  Satoto Cosmetic
+#  SATOTO.AI
 
-**Satoto Cosmetic** adalah solusi terdepan dalam industri kecantikan yang dirancang khusus untuk memenuhi kebutuhan bisnis kecantikan Anda. Dengan fitur Point of Sale (POS) yang canggih, BeautyPoint membantu Anda mengelola operasional harian Anda dengan lebih efisien dan meningkatkan pengalaman pelanggan.
 
 ## Siapa pembuat aplikasi ini?
 
@@ -20,7 +19,7 @@
 
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/1.png">
 <img width="900" alt="300" src="hhttps://github.com/bagussatoto/satoto.ai/blob/main/screenshot/2.png">
-<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/3.png3">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/3.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/4.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/5.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/6.png">
@@ -75,7 +74,7 @@ git clone https://github.com/bagussatoto/satoto.ai.git
 
 ## Request Fitur Baru dan Pelaporan Bug
 
-Anda dapat meminta fitur baru maupun melaporkan bug melalui menu [**issues**](https://github.com/bagussatoto/Kecantikan/issues) yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+Anda dapat meminta fitur baru maupun melaporkan bug melalui menu [**issues**](https://github.com/bagussatoto/satoto.ai/issues) yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
 
 ## Berkontribusi
 
