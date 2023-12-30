@@ -25,11 +25,6 @@
 <img width="945" alt="3" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/fbdad20b-98cb-4467-82e1-88dd00689aba">
 
 
-## Link Drive DEMO
-
-https://drive.google.com/file/d/1qRm3mO5wgRSs4gPk5YC92Ht87dzneqmj/view?usp=drive_link
-
-
 
 ## Penjelasan 
 
@@ -46,9 +41,9 @@ https://drive.google.com/file/d/1qRm3mO5wgRSs4gPk5YC92Ht87dzneqmj/view?usp=drive
 -   Fork Repo Github Saya
 -   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
 ``````
-git clone https://github.com/bagussatoto/Kecantikan.git
+git clone https://github.com/bagussatoto/satoto.ai.git
 `````` 
--   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd Kecantikan</b>
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd satoto.ai</b>
 -   lalu ketik <b>composser install </b> dan <b>php artisan key generate</b>
 -   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate:install</b>
 -   jalankan php artisan db:seed pada terminal/cmd/git bash : <b>php artisan db:seed</b>
