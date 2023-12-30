@@ -24,14 +24,14 @@
  
 > STEP 
 
-Buat KEY API dari chatgpt terlebih dahulu
-https://platform.openai.com/account/api-keys
+Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
+
 
 > STEP 2 
 
 Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
 
--> OPENAI_API_KEY=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
+[OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
 
 > STEP 3
 
@@ -41,9 +41,10 @@ Configurasi file .inv sesuai dengan folder penyimpanan projek
 
 Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
 
-Buka Teriminal lalu jalankan migrationnya
--> php artisan migrate:fresh
-
+Buka Teriminal lalu jalankan migrationnya <br>
+```
+php artisan migrate:fresh
+```
 
 ## Tampilan Website
 
