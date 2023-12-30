@@ -25,8 +25,8 @@
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/6.png">
 
 
-
-
+## ChatBot
+Untuk menambahkan virtual asisten perlu menggunakan [API](https://platform.openai.com/api-keys) supaya proses reaksi komunikasi pengguna berjalan sesuai perintaj dan tugas yang diberikan.
 
 ## Penjelasan 
 
