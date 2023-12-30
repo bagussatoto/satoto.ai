@@ -84,11 +84,11 @@ git clone https://github.com/bagussatoto/satoto.ai.git
 -   Visual Studio Code
 -   Git
 -   Cloud (Github)
--   PHP 7.4.9
--   MYSQL 8.0.13
+-   PHP 8.2.0
+-   MYSQL 8.2.0
 -   Laravel 10
--   Bootstrap 7
--   Composer
+-   Bootstrap  5.3
+-   Composer 2.6.5 
 
 
 ## Kritik dan Saran
