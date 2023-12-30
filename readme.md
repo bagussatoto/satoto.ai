@@ -18,11 +18,14 @@
 
 ## Tampilan Website
 
-<img width="950" alt="344" src=" ">
-<img width="946" alt="332" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/948db39f-4095-4a64-a986-89601fd47c2b">
-<img width="946" alt="2" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/0cf8183b-9b90-49bf-a70b-0b9403f5186b">
-<img width="947" alt="eee" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/6f1f66b7-9ecf-45f9-a4d4-97715682a4de">
-<img width="945" alt="3" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/fbdad20b-98cb-4467-82e1-88dd00689aba">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/1.png">
+<img width="900" alt="300" src="hhttps://github.com/bagussatoto/satoto.ai/blob/main/screenshot/2.png">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/3.png3">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/4.png">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/5.png">
+<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/6.png">
+
+
 
 
 
