@@ -26,7 +26,7 @@
 
 
 ## ChatBot
-Untuk menambahkan virtual asisten perlu menggunakan [API](https://platform.openai.com/api-keys) supaya proses reaksi komunikasi pengguna berjalan sesuai perintaj dan tugas yang diberikan.
+Untuk menambahkan virtual asisten perlu menggunakan [API](https://platform.openai.com/api-keys) supaya proses reaksi komunikasi pengguna berjalan sesuai perintah dan tugas yang diberikan.
 
 ## Penjelasan 
 
