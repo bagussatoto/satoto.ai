@@ -5,7 +5,7 @@
 
 #  SATOTO.AI
 
-**Satoto.ai** merupakan program komputer atau entitas perangkat lunak yang dirancang untuk memberikan bantuan dan melakukan tugas-tugas tertentu untuk pengguna. Virtual asisten ini biasanya menggunakan kecerdasan buatan dan teknologi pemrosesan bahasa alami untuk berkomunikasi dengan pengguna dan menjalankan perintah atau tugas yang diberikan.
+**Satoto.ai** merupakan program komputer atau entitas perangkat lunak yang dirancang untuk memberikan bantuan dan melakukan tugas-tugas tertentu untuk pengguna. Virtual asisten ini biasanya menggunakan kecerdasan buatan dan teknologi pemrosesan bahasa alami untuk berkomunikasi dengan pengguna dan menjalankan perintah atau tugas yang diberikan. Sesuai projek yang saya buat [Klik Disini](https://docs.google.com/document/d/1ZuCB-bLiH1ZkZDxcIM9xkj-lcol1LCQLo5H0VzAvo9Y/edit?usp=sharing) 
 
 ## Siapa pembuat aplikasi ini?
 
