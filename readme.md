@@ -21,7 +21,6 @@
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/1.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/2.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/3.png">
-<img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/5.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/6.png">
 
 
