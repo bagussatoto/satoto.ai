@@ -15,6 +15,35 @@
 | Jurusan        | S1 - Informatika                 |
 | Kampus         | Universitas Amikom Yogyakarta    |
 
+## Cara Mengguanakan 
+
+> Databases : virtualasisten <br>
+> Username : root <br>
+> Password : <br>
+ 
+ 
+> STEP 
+
+Buat KEY API dari chatgpt terlebih dahulu
+https://platform.openai.com/account/api-keys
+
+> STEP 2 
+
+Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
+
+-> OPENAI_API_KEY=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
+
+> STEP 3
+
+Configurasi file .inv sesuai dengan folder penyimpanan projek
+
+> STEP 4
+
+Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
+
+Buka Teriminal lalu jalankan migrationnya
+-> php artisan migrate:fresh
+
 
 ## Tampilan Website
 
@@ -23,9 +52,6 @@
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/3.png">
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/6.png">
 
-
-## ChatBot
-Untuk menambahkan virtual asisten perlu menggunakan [API](https://platform.openai.com/api-keys) supaya proses reaksi komunikasi pengguna berjalan sesuai perintah dan tugas yang diberikan.
 
 ## Penjelasan 
 
