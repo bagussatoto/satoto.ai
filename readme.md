@@ -22,7 +22,7 @@
 > Password : <br>
  
  
-> STEP 
+> STEP 1
 
 Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
 
