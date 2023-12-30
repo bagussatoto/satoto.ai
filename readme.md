@@ -58,7 +58,7 @@ php artisan migrate:fresh
 
 |<h3>Notes  </h3>       |       Keterangan                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------|
-|<b>Interaksi Natural   | </b> cenderung dapat berinteraksi dengan pengguna melalui bahasa alami, mirip dengan cara manusia berkomunikasi. Ini mencakup pemahaman bahasa, dan kemampuan untuk memberikan respons yang relevan. |
+|<b>Interaksi Natural   | </b> Interaksi Natural cenderung dapat berinteraksi dengan pengguna melalui bahasa alami, mirip dengan cara manusia berkomunikasi. Ini mencakup pemahaman bahasa, dan kemampuan untuk memberikan respons yang relevan. |
 |<b>Pengembangan Terus-Menerus | </b> Pengembang terus-menerus meningkatkan kemampuan  dengan menambahkan fungsionalitas baru, meningkatkan pemahaman bahasa, dan menyempurnakan respons mereka. |
 |<b>Fleksibilitas Platform  | </b> satoto.ai dirancang untuk bekerja di berbagai platform dan perangkat, termasuk ponsel pintar, komputer, dan perangkat pintar lainnya. |
 
