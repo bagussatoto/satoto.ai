@@ -15,7 +15,7 @@
 | Jurusan        | S1 - Informatika                 |
 | Kampus         | Universitas Amikom Yogyakarta    |
 
-## Cara Menggunakan 
+## Cara Menggunakannya
 
 > Databases : virtual_asisten.sql <br>
 > Username : root <br>
