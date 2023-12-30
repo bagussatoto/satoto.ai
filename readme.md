@@ -5,6 +5,7 @@
 
 #  SATOTO.AI
 
+**Satoto.ai** meruapakan program komputer atau entitas perangkat lunak yang dirancang untuk memberikan bantuan dan melakukan tugas-tugas tertentu untuk pengguna. Virtual asisten ini biasanya menggunakan kecerdasan buatan dan teknologi pemrosesan bahasa alami untuk berkomunikasi dengan pengguna dan menjalankan perintah atau tugas yang diberikan.
 
 ## Siapa pembuat aplikasi ini?
 
@@ -31,8 +32,9 @@
 
 |<h3>Notes  </h3>       |       Keterangan                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------|
-|<b>Analisis   | </b> Analisis tren penjualan untuk membantu Anda membuat keputusan yang lebih baik. |
-|<b>Integrasi | </b> Integrasi dengan peralatan kecantikan seperti mesin pembaca kode batang untuk memudahkan inventarisasi. |
+|<b>Interaksi Natural   | </b> cenderung dapat berinteraksi dengan pengguna melalui bahasa alami, mirip dengan cara manusia berkomunikasi. Ini mencakup pemahaman bahasa, dan kemampuan untuk memberikan respons yang relevan. |
+|<b>Pengembangan Terus-Menerus | </b> Pengembang terus-menerus meningkatkan kemampuan  dengan menambahkan fungsionalitas baru, meningkatkan pemahaman bahasa, dan menyempurnakan respons mereka. |
+|<b>Fleksibilitas Platform  | </b> satoto.ai dirancang untuk bekerja di berbagai platform dan perangkat, termasuk ponsel pintar, komputer, dan perangkat pintar lainnya. |
 
 
 ## Cara Instalasi ke Server Lokal :
