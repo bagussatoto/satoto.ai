@@ -17,7 +17,7 @@
 
 ## Cara Mengguanakan 
 
-> Databases : virtualasisten <br>
+> Databases : virtual_asisten.sql <br>
 > Username : root <br>
 > Password : <br>
  
