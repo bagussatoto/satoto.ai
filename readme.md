@@ -31,22 +31,22 @@
 > Password : <br>
  
  
-> STEP 1
+> langkah 1
 
 Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
 
 
-> STEP 2 
+> langkah  2 
 
 Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
 
 [OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
 
-> STEP 3
+> Langkah 3
 
 Configurasi file .inv sesuai dengan folder penyimpanan projek
 
-> STEP 4
+> langkah 4
 
 Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
 
