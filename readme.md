@@ -52,7 +52,7 @@
 git clone https://github.com/bagussatoto/satoto.ai.git
 `````` 
 -   Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
--   Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
+-   Tambahkan Variable di file .inv lalu masukan key api dari chatgpt <br>
     [OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
 -   Configurasi file .inv sesuai dengan folder penyimpanan projek
 -   Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
