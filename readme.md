@@ -47,6 +47,7 @@
 -   [Follow Github Saya](https://github.com/bagussatoto)
 -   Star Repo Github Saya
 -   [Fork Repo Github Saya](https://github.com/bagussatoto/satoto.ai/fork)
+-   [Sawer dan Donasi](https://saweria.co/bagussatoto1)
 -   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> 
     ````
     git clone https://github.com/bagussatoto/satoto.ai.git
