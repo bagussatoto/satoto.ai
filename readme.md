@@ -48,21 +48,19 @@
 -   Star Repo Github Saya
 -   Fork Repo Github Saya
 -   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> 
-``````
-git clone https://github.com/bagussatoto/satoto.ai.git
-`````` 
+    ````
+    git clone https://github.com/bagussatoto/satoto.ai.git
+    ````
 -   Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
 -   Tambahkan Variable di file .inv lalu masukan key api dari chatgpt <br>
     [OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
 -   Configurasi file .inv sesuai dengan folder penyimpanan projek
 -   Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
-
-```
-DB_DATABASE=virtual_asisten
-DB_USERNAME=root
-DB_PASSWORD=
-```
- 
+    ```
+    DB_DATABASE=virtual_asisten
+    DB_USERNAME=root
+    DB_PASSWORD=
+    ```
 -   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash 
     ```
     cd satoto.ai
@@ -73,7 +71,7 @@ DB_PASSWORD=
     ```
     dan 
     ```
-    php artisan key generate
+    php artisan key:generate
     ```
 
 -   tulis migrate database pada terminal/cmd/git bash :
@@ -81,13 +79,13 @@ DB_PASSWORD=
     php artisan migrate:fresh
     ```
 
--   jalankan 
+-   jalankan untuk mengirimkan database pada terminal/cmd/git bash :
     ```
     php artisan db:seed
     ```
-    pada terminal/cmd/git bash :
+-   jalankan local server pada terminal/cmd/git bash :
     ```
-    php artisan db:seed
+    php artisan serve
     ```
 
 <b>Notes :</b> Untuk db:seed jika males untuk mengetikan data, akan dibuatkan langsung oleh laravelnya.
