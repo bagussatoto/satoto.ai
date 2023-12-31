@@ -56,7 +56,7 @@
 -   Tambahkan Variable di file .inv lalu masukan key api dari chatgpt <br>
     [OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
 -   Configurasi file .inv sesuai dengan folder penyimpanan projek
--   Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
+-   Buat databases dengan nama ``virtual_asisten`` (sesuaikan dengan settingan di file .inv)
     ```
     DB_DATABASE=virtual_asisten
     DB_USERNAME=root
