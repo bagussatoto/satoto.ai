@@ -24,36 +24,6 @@
 | Jurusan        | S1 - Informatika                 |
 | Kampus         | Universitas Amikom Yogyakarta    |
 
-## Cara Menggunakannya
-
-> Databases : virtual_asisten.sql <br>
-> Username : root <br>
-> Password : <br>
- 
- 
-> langkah 1
-
-Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
-
-
-> langkah  2 
-
-Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
-
-[OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
-
-> Langkah 3
-
-Configurasi file .inv sesuai dengan folder penyimpanan projek
-
-> langkah 4
-
-Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
-
-Buka Teriminal lalu jalankan migrationnya <br>
-```
-php artisan migrate:fresh
-```
 
 ## Tampilan Website
 
@@ -77,14 +47,48 @@ php artisan migrate:fresh
 -   Follow Github Saya
 -   Star Repo Github Saya
 -   Fork Repo Github Saya
--   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
+-   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> 
 ``````
 git clone https://github.com/bagussatoto/satoto.ai.git
 `````` 
--   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd satoto.ai</b>
--   lalu ketik <b>composser install </b> dan <b>php artisan key generate</b>
--   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate:fresh</b>
--   jalankan php artisan db:seed pada terminal/cmd/git bash : <b>php artisan db:seed</b>
+-   Buat [KEY API](https://platform.openai.com/account/api-keys) dari chatgpt terlebih dahulu
+-   Tambahkan Variable di file .inv lalu masukan key api dari chatgpt
+    [OPENAI_API_KEY=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](https://github.com/bagussatoto/satoto.ai/blob/main/.env.example)
+-   Configurasi file .inv sesuai dengan folder penyimpanan projek
+-   Buat databases dengan nama virtualasisten (sesuaikan dengan settingan di file .inv)
+
+```
+DB_DATABASE=virtual_asisten
+DB_USERNAME=root
+DB_PASSWORD=
+```
+ 
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash 
+    ```
+    cd satoto.ai
+    ```
+-   lalu ketik 
+    ```
+    composser install 
+    ```
+    dan 
+    ```
+    php artisan key generate
+    ```
+
+-   tulis migrate database pada terminal/cmd/git bash :
+    ```
+    php artisan migrate:fresh
+    ```
+
+-   jalankan 
+    ```
+    php artisan db:seed
+    ```
+    pada terminal/cmd/git bash :
+    ```
+    php artisan db:seed
+    ```
 
 <b>Notes :</b> Untuk db:seed jika males untuk mengetikan data, akan dibuatkan langsung oleh laravelnya.
 
