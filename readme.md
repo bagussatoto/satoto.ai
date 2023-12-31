@@ -88,7 +88,9 @@
     php artisan serve
     ```
 
-<b>Notes :</b> Untuk db:seed jika males untuk mengetikan data, akan dibuatkan langsung oleh laravelnya.
+<b>Notes : 
+<br></b> 1.  Untuk ``db:seed`` jika males untuk mengetikan data, akan dibuatkan langsung oleh laravelnya.
+<br></b> 2.  Server local menggunakan  `http://127.0.0.1:8000/`
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
