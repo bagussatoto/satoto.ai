@@ -23,9 +23,9 @@ import datetime
 import pywhatkit
 import wikipedia
 listener = sr.Recognizer()
-alexa = pyttsx3.init()
+satoto = pyttsx3.init()
 
-voices = alexa.getProperty('voices')
+voices = satoto.getProperty('voices')
 alexa.setProperty('voice', voices[0].id)
 
 def talk(text):
@@ -36,7 +36,7 @@ def take_command():
 
     try:
         with sr.Microphone() as source:
-            print('Alexa is listening, please speak...')
+            print('Satoto.ai is listening, please speak...')
             voice = listener.listen(source)
             command = listener.recognize_google(voice)
             command = command.lower()
