@@ -35,7 +35,7 @@
 
 ## Penjelasan 
 
-|<h3>Notes  </h3>       |       Keterangan                                                                  |
+|       Notes           |       Keterangan                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------|
 |<b>Interaksi Natural   | </b> Interaksi Natural cenderung dapat berinteraksi dengan pengguna melalui bahasa alami, mirip dengan cara manusia berkomunikasi. Ini mencakup pemahaman bahasa, dan kemampuan untuk memberikan respons yang relevan. |
 |<b>Pengembangan Terus-Menerus | </b> Pengembang terus-menerus meningkatkan kemampuan  dengan menambahkan fungsionalitas baru, meningkatkan pemahaman bahasa, dan menyempurnakan respons mereka. |
