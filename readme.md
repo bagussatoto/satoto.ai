@@ -25,6 +25,7 @@
 | Kampus         | Universitas Amikom Yogyakarta    |
 
 
+
 ## Tampilan Website
 
 <img width="900" alt="300" src="https://github.com/bagussatoto/satoto.ai/blob/main/screenshot/1.png">
@@ -103,6 +104,9 @@
 -   MYSQL 8.2.0
 -   Laravel 10
 -   Bootstrap  5.3
+-   Tailwind 
+-   Migrations
+-   Python 3
 -   Composer 2.6.5 
 
 
@@ -111,6 +115,8 @@
 | *_Silahkan kirim kritik dan saran anda ke email :_*  |
 |------------------------------------------------------|
 | bagusbudi1308@gmail.com                              |
+| bagusbudi1308@students.amikom.ac.id                  |
+
 
 
 ## Request Fitur Baru dan Pelaporan Bug
@@ -119,6 +125,5 @@ Anda dapat meminta fitur baru maupun melaporkan bug melalui menu [**issues**](ht
 
 ## Berkontribusi
 
-Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada **mahasiswa**. 
-Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
+Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada **mahasiswa**. Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
 
