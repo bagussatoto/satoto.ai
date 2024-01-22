@@ -115,7 +115,6 @@
 | *_Silahkan kirim kritik dan saran anda ke email :_*  |
 |------------------------------------------------------|
 | bagusbudi1308@gmail.com                              |
-| bagusbudi1308@students.amikom.ac.id                  |
 
 
 
